@@ -47,6 +47,9 @@ p{
   margin-top: 2%;
   padding: 1rem;
 }
+
+/* Title-colors */
+
 .chicken{
     background-color: rgb(163, 163, 221);
 }
@@ -58,7 +61,7 @@ p{
     background-color: antiquewhite;
 }
 
-
+/* responsiveness */
 @media (min-width:769px) and (max-width:991px){
     .grid{
         
